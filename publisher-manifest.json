@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "dec285bb9779a0430e084441",
+  "owner": "wbafwstcc",
+  "repo": "page-2a35187bb901eb5e13c522ba",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2a35187bb901eb5e13c522ba",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3562bc3ab3f7b571d2c7fe024dad57b43010b846b4762c6b638ee4245de00747",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供优质VPN加速服务，月付年付多种套餐，300GB流量等，官网下载专业客户端。支持流媒体解锁与游戏加速。",
+          "AI_DESCRIPTION": "TG号批发提供优质VPN加速服务，月付年付多种套餐，300GB流量等，官网下载专业客户端。支持流媒体解锁与游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background-color:#f5f5dc;color:#333333;margin:0;padding:0;line-height:1.7}header{background-color:#f5f5dc;padding:1rem 0;text-align:center;border-bottom:2px solid #006400}.container{max-width:1200px;margin:0 auto;padding:2rem 1rem}h1{color:#006400;font-size:2.5rem;margin:0}h2{color:#006400;font-size:1.8rem;margin-top:2rem;border-bottom:1px solid #ddd;padding-bottom:0.5rem}.intro,.features,.use-cases,.operations{margin:1.5rem 0}.plans{display:flex;justify-content:center;gap:2rem;flex-wrap:wrap;margin:2rem 0}.plan-card{background:white;border:1px solid #d1d5db;border-radius:12px;padding:1.5rem;width:100%;max-width:350px;box-shadow:0 4px 6px -1px rgba(0,0,0,0.1);transition:transform .3s}.plan-card:hover{transform:translateY(-5px)}.plan-card.featured{border:3px solid #006400;background:#f0fdf4;position:relative}.plan-card.featured::after{content:\"推荐\";position:absolute;top:-10px;right:20px;background:#006400;color:white;padding:0.25rem 1rem;border-radius:9999px;font-size:0.875rem;font-weight:bold}.plan-name{font-size:1.4rem;font-weight:bold;color:#006400;margin:0 0 .5rem}.plan-price{font-size:1.8rem;font-weight:bold;color:#166534}.annual{color:#666;font-size:0.9rem;margin-bottom:1rem}ul.features-list{list-style:none;padding:0;margin:1rem 0}ul.features-list li{padding:8px 0 8px 1.25rem;position:relative}ul.features-list li:before{content:\"✔\";color:#006400;position:absolute;left:0;font-weight:bold}.btn{display:inline-block;background:#006400;color:#fff;padding:0.75rem 1.5rem;border-radius:6px;text-decoration:none;font-weight:600;margin-top:1rem}.btn:hover{background:#004d00}details{margin:1rem 0;border:1px solid #ddd;border-radius:8px;padding:1rem}summary{font-weight:bold;cursor:pointer;color:#006400;font-size:1.1rem}summary::-webkit-details-marker{display:none}footer{background:#006400;color:#fff;text-align:center;padding:1rem;margin-top:3rem}p a{color:#f5f5dc;text-decoration:none}@media(max-width:768px){h1{font-size:2rem}.plans{flex-direction:column;align-items:center}.plan-card{max-width:100%}}</style><header><div class=\"container\"><h1>TG号批发</h1></div></header><main><div class=\"container\"><h2>品牌简介</h2><div class=\"intro\"><p>TG号批发为您提供专业的VPN加速器服务，专注提供稳定、安全的高速网络连接。无论个人用户还是企业团队，我们的多种流量套餐都能满足您的需求。</p></div><h2>使用场景</h2><div class=\"use-cases\"><ul><li>家庭娱乐：解锁Netflix、Disney+等国际流媒体平台</li><li>在线游戏：IPLC专线优化游戏延迟，提升竞技体验</li><li>远程办公：稳定线路支持多设备同时使用</li><li>跨境访问：访问被屏蔽的网站和应用</li></ul></div><h2>操作说明</h2><div class=\"operations\"><p>1. 选择适合您的客户端版本（Windows、Mac、iOS、Android）</p><p>2. 访问官网下载客户端</p><p>3. 安装后使用邮箱或手机号注册账号</p><p>4. 登录后选择合适的线路节点</p><p>5. 点击连接即可享受高速加速</p></div><h2>流量套餐</h2><div class=\"plans\"><div class=\"plan-card\"><div class=\"plan-name\">基础版</div><div class=\"plan-price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"features-list\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card featured\"><div class=\"plan-name\">旗舰版</div><div class=\"plan-price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"features-list\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan-card\"><div class=\"plan-name\">团队版</div><div class=\"plan-price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"features-list\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><h2>常见问题</h2><details><summary>什么是TG号批发？</summary><p>TG号批发是一款专业的VPN加速器，提供多种流量套餐和稳定线路，帮助用户实现高效的网络加速体验。</p></details><details><summary>基础版套餐支持多少设备？</summary><p>基础版支持3台设备同时在线，适合个人用户或小型家庭使用。</p></details><details><summary>旗舰版能解锁哪些流媒体？</summary><p>旗舰版支持全节点原生流媒体解锁，包括Netflix、YouTube、Disney+等主流平台。</p></details><details><summary>团队版适合企业用户吗？</summary><p>是的，团队版提供VIP高带宽节点、企业定制路由和专属客户经理服务，满足大规模网络需求。</p></details><details><summary>年付相比月付更划算吗？</summary><p>年付仅需对应年付价格，节省约20%的费用，非常适合长期使用用户。</p></details><details><summary>如何获取客户端下载？</summary><p>通过官网下载，我们提供Windows、Mac、Android和iOS等多个版本客户端，满足不同设备需求。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><p>© 2024 TG号批发. 所有权利保留. 官网: <a href=\"#\">www.tghao.com</a></p></div></footer>",
+          "hash": "6510bb08e9c053cf7ac731b257e31c773aa828a2ef67016bcd4409a5ff285a72",
+          "seo": {
+            "title": "TG号批发 - VPN加速器 客户端下载 官网",
+            "keywords": "TG号批发, VPN加速器, 机场订阅, 客户端下载, 官网下载",
+            "description": "TG号批发提供优质VPN加速服务，月付年付多种套餐，300GB流量等，官网下载专业客户端。支持流媒体解锁与游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hxvmvhoo.cn",
+    "host": "p-d056ca8ab9.hxvmvhoo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "79a1ae72907c3a0f124d97be080594f1232692d13974ec239c0ff9559984c5f1",
+    "sitemap.xml": "83092cda485410f2fa8eb8550c80e19e5704b0624d2acf554dfe6083bc734b6f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b94f33288041476419957a767be602578acfa9584270f96a0810756fb553f049",
+    "robots.txt": "46587b4d4e142aa9731f5a55d483cea1aa52c106c81f8c0b315443405507b712",
+    "cc06dfe1552a93d43d7928c482d59da9.txt": "b3ff8f678c31ab9c2ab63e607fe241f60f8596fca4235d8cff350b7c0ce3e493"
+  },
+  "revision": "0939622ec4ecaceac646b5a8f439481acfb8ebe195ebb0df6b5f13ac79043751"
+}
